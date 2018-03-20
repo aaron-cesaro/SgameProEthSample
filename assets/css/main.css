@@ -1,0 +1,36 @@
+body {
+    background-color:#F0F0F0;
+    padding: 2em;
+    font-family: 'Raleway','Source Sans Pro', 'Arial';
+}
+.container {
+    width: 40%;
+    margin: 0 auto;
+}
+label {
+    display:block;
+    margin-bottom:10px;
+}
+input {
+    padding:10px;
+    width: 500px;
+    margin-bottom: 1em;
+}
+button {
+    margin: 2em 25%;
+    padding: 1em 4em;
+    display:block;
+}
+
+#playerName, #playerScore {
+    text-align: center;
+    width: 480px;
+    padding:1em;
+    background-color:rgb(224, 224, 224);
+    margin: 1em 0;
+}
+
+#loader {
+    width: 100px;
+    display:none;
+}
