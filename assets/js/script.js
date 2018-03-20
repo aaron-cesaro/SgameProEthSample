@@ -83,7 +83,7 @@ $(document).ready(function() {
         }
     ]);
     //defining contract address
-    var SgamePro = SgameProContract.at("0xaf9c5a703c7983d4b6763b3b28822e501b502199");
+    var SgamePro = SgameProContract.at("PASTE THE ADDRESS HERE");
     //make sure to access the contract ABI
     console.log(SgamePro);
     //retrieving player's infos
