@@ -18,7 +18,7 @@ It uses testrpc network instead of real ethereum network, but the net is really 
 ```
 npm install -g ethereumjs-testrpc
 ```
-Using the terminal go to sGameProSample folder and type:
+Using the terminal go to SgameProEthSample folder and type:
     ```
     testrpc
     ```
